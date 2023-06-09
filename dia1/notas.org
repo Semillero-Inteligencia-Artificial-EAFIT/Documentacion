@@ -1,0 +1,16 @@
+* dia 1
+
+** chatgpt para traducir
+empezamos a probar con chatgpt para hacer traducciones de español portuges , chatgpt mostro varios problemas como que la key solo se puede usar por 3 meses, toco crearse una cuenta nueva de chatgpt para poder usarlo de nuevo.ademas de problematico es muy limitado , solo era para probar. preferimos usar el traductor de google es menos problematico por que no tiene liitaciones.
+** whisper para la trascripcion
+whisper fue una opcion para trascribir por que separa el ruido y la voz del audio, esto mejora la calidad de la trascirpcion pero no es en vivo
+
+probar con el modelo large TODO
+probar cambiando parametros
+
+** react
+se hizo una buena pagina que transcribe bien y traduce pero era muy limitada
+
+*** pagina rect
+se piensa que la pagina de react puede ser una muy buena opcion de base para el proyecto pero hay que hacer mucha plomeria para conectarlo con otras cosas que nesesitamos como el traductor y el modelo, el modelo se puede hacer en tensorflow y usarlo en la pagina con tensorflowjs
+https://www.tensorflow.org/js/tutorials/conversion/import_keras
